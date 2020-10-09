@@ -2,7 +2,7 @@
 /*@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');*/
 
 /* Custom designs */
-/*@import url(components/banner.css);*/
+@import url(components/banner.css);
 /*@import url(components/buttons.css);*/
 @import url(components/home-card.css);
 @import url(components/container.css);

@@ -1,19 +1,26 @@
 .home-card {
   margin-bottom: 30px;
-  padding: 45px 40px 45px 40px;
+  padding: 40px 40px 40px 40px;
   display: flex;
-  background-color: #F6F6F6;
   font-family: Poppins;
 }
 .home-card-text {
   text-align: left;
-  padding-right: 60px;
-  padding-left: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 .home-card-img {
-  width: 400px;
+  width: 370px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
-
+.home-card-grey {
+  margin-bottom: 30px;
+  padding: 40px 40px 40px 40px;
+  display: flex;
+  background-color: #F6F6F6;
+  font-family: Poppins;
+}
 
 /*tests */
 /*.home-card-right {
