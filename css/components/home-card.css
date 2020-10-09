@@ -1,0 +1,27 @@
+.home-card {
+  margin-bottom: 30px;
+  padding: 45px 40px 45px 40px;
+  display: flex;
+  background-color: #F6F6F6;
+  font-family: Poppins;
+}
+.home-card-text {
+  text-align: left;
+  padding-right: 60px;
+  padding-left: 60px;
+}
+.home-card-img {
+  width: 400px;
+}
+
+
+/*tests */
+/*.home-card-right {
+  margin-bottom: 30px;
+  padding: 45px 40px 45px 40px;
+  background-color: #F6F6F6;
+}
+.home-card-right-text {
+    text-align: right;
+}
+*/
