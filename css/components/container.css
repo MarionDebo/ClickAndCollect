@@ -3,3 +3,12 @@
   margin: auto;
   text-align: center;
 }
+
+.flex-container {
+  display: flex;
+}
+
+.flex-end {
+  justify-content: flex-end;
+  flex-direction: row;
+}

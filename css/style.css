@@ -3,10 +3,11 @@
 
 /* Custom designs */
 @import url(components/banner.css);
-/*@import url(components/buttons.css);*/
+@import url(components/button.css);
 @import url(components/home-card.css);
 @import url(components/container.css);
 /*@import url(components/footer.css);*/
+@import url(components/navbar.css);
 
 /* Utilities */
 /*body {*/
