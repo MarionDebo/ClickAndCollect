@@ -17,10 +17,11 @@
   border: 0.5px solid #E18B21;
 }
 #primary-btn-title {
-  color: white;
-  background-color: #E18B21;
-  padding: 8px 18px;
-  border-radius: 40px;
+  color: #E18B21;
+  background-color: white ;
+  padding: 5px 9px;
+  border-radius: 20px;
   text-decoration: none;
-  border: 0.5px solid white;
+  border: 0.5px solid #E18B21;
+  font-size: 14px;
 }
