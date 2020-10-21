@@ -10,16 +10,22 @@
 
   <!-- Navbar -->
   <a id="haut"></a>
-  <div class="container">
-    <div class="width navbar-container menu-container flex-container space-between">
+  <div class="container justify-center">
+    <div class="width navbar-container menu-container flex-container space-between width-1000 justify-center">
       <!-- A gauche, le logo  -->
-      <div>
+      <div class="flex">
         <img
           src="images/logo-orange.png"
           alt="[La fermette près de chez vous]"
-          width="160px"
+          width="170px"
         />
-      </div>
+        <div class="menu-intitule flex">
+          <div class="menu-intitule"><p><a href="/">Accueil</a></p></div>
+          <!-- <div> <svg xmlns="http://www.w3.org/2000/svg" width="8" height="3" class="carret" data-target="dropdown.carret" viewBox="0 0 8 3"><path fill="none" stroke="#42464c" stroke-linecap="round" stroke-linejoin="round" d="m66.3706055 9 2.8516167 3 2.7777778-3" transform="translate(-65 -9)"></path></svg></div> -->
+        </div>
+          <div class="menu-intitule"><p><a href="liste-paniers.html">Les paniers bio</a></p></div>
+        </div>
+
      <!-- A droite, les CtA -->
       <div class="menu-container flex-end flex-container">
         <div>
@@ -35,11 +41,11 @@
 
     <!-- <div class="banner" style="background-image: url(images/champs-istock.jpg);"> -->
       <div class="container justify-center">
-        <div class="home-card home-card-title flex-row width">
+        <div class="home-card home-card-title flex-row width-1000">
           <div class="home-card-title-text">
             <h1>Changez de vie, <br> mangez bio</h1>
             <p>Grâce à la ferme de Goulven, prenez soin de vous : mangez bio, local et de saison ;) Passez nous voir pour découvrir nos paniers, on vous réserve le meilleur de notre production !</p>
-            <p><a href="liste-paniers.html" id="primary-btn-title">Je commande mon panier</a></p>
+            <p><a href="liste-paniers.html" id="primary-btn-title">Découvrir les paniers</a></p>
           </div>
           <div class="home-card-title-pic">
             <img src="images/potiron.jpg" class="home-card-img" alt="">
@@ -82,5 +88,7 @@
       <a href="#haut">haut de page</a>
     </div>
   </div>
+
+
 </body>
 </html>

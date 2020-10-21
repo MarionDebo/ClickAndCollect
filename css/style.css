@@ -6,7 +6,7 @@
 @import url(components/button.css);
 @import url(components/home-card.css);
 @import url(components/container.css);
-/*@import url(components/footer.css);*/
+@import url(components/animation.css);
 @import url(components/navbar.css);
 
 /* Utilities */
