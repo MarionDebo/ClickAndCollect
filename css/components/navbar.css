@@ -13,7 +13,7 @@
 
 .menu-intitule {
   padding-left: 30px;
-  font-size: 16px;
+  font-size: 14.5px;
   font-family: Poppins;
 }
 .menu-intitule a {
@@ -25,3 +25,15 @@
   color: #E18B21;
 }
 
+.accueil-selected a {
+  color: #E18B21;
+}
+.paniers-selected a {
+  color: #E18B21;
+}
+.ferme-selected a {
+  color: #E18B21;
+}
+.contact-selected a {
+  color: #E18B21;
+}
