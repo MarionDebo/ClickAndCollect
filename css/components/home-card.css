@@ -1,4 +1,5 @@
 .home-card {
+  margin-top: 20px;
   margin-bottom: 30px;
   padding: 20px;
   display: flex;
@@ -10,7 +11,7 @@
   padding-left: 40px;
 }
 .home-card-img {
-  width: 460px;
+  width: 470px;
   margin-left: 40px;
 }
 .home-card-grey {
