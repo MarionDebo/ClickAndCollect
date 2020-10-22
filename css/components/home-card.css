@@ -1,7 +1,7 @@
 .home-card {
   margin-top: 20px;
   margin-bottom: 30px;
-  padding: 20px;
+  padding: 20px 0px;
   display: flex;
   font-family: Poppins;
 }
@@ -56,5 +56,16 @@
 }
 
 
+/*Partie visite */
+.home-card-title-text-visite {
+  justify-content: left;
+  color: red;
+  padding-right: 20px;
+  line-height: 108%;
+  align-content: center;
+}
 
+.container-align-items {
+  align-items: center;
+}
 
