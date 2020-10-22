@@ -59,10 +59,10 @@
 /*Partie visite */
 .home-card-title-text-visite {
   justify-content: left;
-  color: red;
   padding-right: 20px;
   line-height: 108%;
   align-content: center;
+  color: #474A48;
 }
 
 .container-align-items {
