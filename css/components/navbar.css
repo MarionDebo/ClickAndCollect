@@ -1,16 +1,15 @@
 .space-between {
   justify-content: space-between;
 }
-
 .navbar-container {
   margin-top: 20px;
   padding: 10px;
 }
-
 .flex {
   display: flex;
 }
 
+/*Dans la navbar, boutons*/
 .menu-intitule {
   padding-left: 30px;
   font-size: 14.5px;
@@ -25,6 +24,7 @@
   color: #E18B21;
 }
 
+/*Dans la navbar, bouton coloré pour page sélectionnée */
 .accueil-selected a {
   color: #E18B21;
 }

@@ -9,19 +9,19 @@
 @import url(components/animation.css);
 @import url(components/navbar.css);
 
+
 /* Utilities */
-/*body {*/
-  /*margin: 0;*/
-  /*font-family: Open Sans;*/
-/*}*/
+body {
+  font-family: Poppins;
+}
 
-/*h1, h2, h3, h4 {*/
-  /*font-family: Poppins;*/
-/*}*/
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
 
-/*a {*/
-  /*text-decoration: none;*/
-/*}*/
+a {
+  text-decoration: none;
+}
 
 /*.text-center {*/
   /*text-align: center;*/
