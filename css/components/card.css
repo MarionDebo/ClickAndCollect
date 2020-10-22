@@ -18,6 +18,14 @@
   margin: 0;
 }
 
+#orange {
+  color: #E18B21;
+}
+
+#price {
+  color: #474A48;!
+}
+
 .card-trip p {
   font-size: 12px;
   opacity: .7;
@@ -33,9 +41,3 @@
   position: relative;
 }
 
-.card-trip-infos .card-trip-user {
-  position: absolute;
-  right: 16px;
-  top: -20px;
-  width: 40px;
-}
