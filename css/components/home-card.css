@@ -14,15 +14,14 @@
   width: 470px;
   margin-left: 40px;
 }
-.home-card-grey {
+/*.home-card-grey {
   margin-bottom: 30px;
   padding: 40px 40px 40px 40px;
   display: flex;
   background-color: #F6F6F6;
   font-family: Poppins;
-}
+}*/
 .home-card-title {
-  /*width: 400px;*/
   justify-content: center;
 }
 .home-card-title-text h1 {
@@ -39,3 +38,22 @@
   width: 1000px;
   justify-content: center;
 }
+
+/*Contenu de la homepage */
+.orange-background {
+  background-color: #FDF6ED;
+  margin: 0;
+  height: 300px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.white-background {
+  margin: 0;
+  height: 300px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+
+

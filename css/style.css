@@ -8,14 +8,27 @@
 @import url(components/container.css);
 @import url(components/animation.css);
 @import url(components/navbar.css);
-
+@import url(components/footer.css);
 
 /* Utilities */
 body {
   font-family: Poppins;
+  color: #2C302E;
 }
 
-h1, h2, h3, h4 {
+h1 {
+  font-family: Poppins;
+  font-weight: lighter;
+  font-size: 34px;
+  color: #E18B21;
+}
+h2 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: normal;
+  color: #E18B21;
+}
+h3, h4 {
   font-family: Poppins;
 }
 
@@ -26,3 +39,6 @@ a {
 /*.text-center {*/
   /*text-align: center;*/
 /*}*/
+
+/*Font weight possibilities :*/
+/*normal, light, bold, bolder*/
