@@ -11,19 +11,25 @@
   padding-left: 40px;
 }
 .home-card-img {
-  width: 470px;
-  margin-left: 40px;
+/*  width: 430px;
+  height: 400px;
+  margin-left: 40px;*/
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  display: block;
+  max-width:580px;
+  max-height:500px;
+  width: auto;
+  height: auto;
+  border-radius: 16px;
+  margin-left: 30px;
 }
-/*.home-card-grey {
-  margin-bottom: 30px;
-  padding: 40px 40px 40px 40px;
-  display: flex;
-  background-color: #F6F6F6;
-  font-family: Poppins;
-}*/
 .home-card-title {
   justify-content: center;
+}
+.home-card-title-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
 }
 .home-card-title-text h1 {
   justify-content: left;
@@ -31,6 +37,9 @@
   font-size: 50px;
   padding-right: 20px;
   line-height: 108%;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
 }
 .home-card-title-pic {
   width: 70%;
