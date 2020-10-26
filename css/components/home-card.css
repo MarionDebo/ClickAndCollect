@@ -34,7 +34,7 @@
 .home-card-title-text h1 {
   justify-content: left;
   color: #E18B21;
-  font-size: 50px;
+  font-size: 53px;
   padding-right: 20px;
   line-height: 108%;
   font-weight: normal;
@@ -53,15 +53,13 @@
 .orange-background {
   background-color: #FDF6ED;
   margin: 0;
-  /*height: 300px;*/
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 50px 0px 50px 0px;
 }
 .white-background {
   margin: 0;
-  /*height: 300px;*/
   padding-top: 40px;
   padding-bottom: 40px;
+  padding: 50px 0px 50px 0px;
 }
 
 
