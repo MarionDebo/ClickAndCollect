@@ -1,11 +1,5 @@
-.space-between {
-  justify-content: space-between;
-}
 .navbar-container {
   margin-top: 30px;
-}
-.flex {
-  display: flex;
 }
 
 /*Dans la navbar, boutons*/

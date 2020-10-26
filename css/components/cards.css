@@ -1,18 +1,19 @@
-.card-trip {
+.card-shopping {
   overflow: hidden;
   background: white;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   width: 350px;
   height: 350px;
+  border-radius: 16px;
 }
 
-.card-trip > img {
+.card-shopping > img {
   height: 200px;
   width: 100%;
   object-fit: cover;
 }
 
-.card-trip h2 {
+.card-shopping h3 {
   font-size: 16px;
   font-weight: bold;
   margin: 0;
@@ -26,18 +27,18 @@
   color: #474A48;!
 }
 
-.card-trip {
+.card-shopping {
 margin: 0px 25px 25px 0px;
 }
 
-.card-trip p {
+.card-shopping p {
   font-size: 12px;
   opacity: .7;
   margin: 0;
   margin-right: 20px;
 }
 
-.card-trip .card-trip-infos {
+.card-shopping .card-shopping-infos {
   padding: 16px;
   display: flex;
   justify-content: space-between;
@@ -51,13 +52,33 @@ margin: 0px 25px 25px 0px;
  /*Cards responsive*/
 
 
- .cards {
+/* .cards {
   display: grid;
   grid-gap: 16px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
  }
 
+ @media(max-width: 992px) {
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
 
+@media(max-width: 768px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+}
+*/
+/*
+.grid-container {
+  grid-template-columns: 100px 50px 100px;
+  grid-template-rows: 80px auto 80px;
+  column-gap: 10px;
+  row-gap: 15px;
+}
+
+*/
 
 
 
